@@ -1,0 +1,17 @@
+#logForm {
+    width: auto;
+    position: absolute;
+    top: 30%;
+    left: 30%;
+    right:30%;
+    bottom: 30%;
+    transform: translate(-30% -30% -30% -30%);
+}
+#logForm h2{
+    color: red;
+    font-weight: 900;
+}
+#logForm h1{
+    color: rgb(0, 0, 0);
+    font-weight: 900;
+}
